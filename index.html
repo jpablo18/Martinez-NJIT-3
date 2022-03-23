@@ -39,12 +39,11 @@
 
 	    </div>
 
-
 	    <div class="main">
 
 	      <div class="container">
 
-	        <div class="col-md-6">
+	        <div class="col-md-6" v-for="movie in movies">
 	            <div class="thumbnail">
 
 						<img class="poster" :src="movies[0].posters[0]"  />

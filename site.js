@@ -45,8 +45,8 @@ const vue_app = Vue.createApp({
             var month = dateArray[1];
             var day = dateArray[2];
             var year = dateArray[0];
-            return month + " " + day + ", " + year;
-            switch (new Date().getMonth()) {
+
+            switch (month) {
   case 1:
     month = "janaurary";
     break;
@@ -67,19 +67,26 @@ const vue_app = Vue.createApp({
     break;
   case 7:
     day = "july";
+    break;
     case 8:
       day = "august";
+      break;
       case 9:
         day = "september";
+        break;
         case 10:
           day = "october";
+          break;
           case 11:
             day = "november";
+            break;
             case 12:
               day = "december";
-}
-              }
+              break;
             }
+            return month + " " + day + ", " + year;
+  }
+}
 
 })
 

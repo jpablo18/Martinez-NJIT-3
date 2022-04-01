@@ -4,10 +4,10 @@
 	<title>IS219 Gallery (Project 3)</title>
 
 	<!-- Our CSS File along with Boostrap Styles, and FontAwesome Styles-->
-	<link rel="stylesheet" type='text/css' href="style.css"/>
+
 	<link rel="stylesheet" type='text/css' href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 	<link rel="stylesheet" type='text/css' href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
+	<link rel="stylesheet" type='text/css' href="style.css"/>
 	<!-- jQuery -->
 	<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
@@ -57,7 +57,7 @@
 
 			            <div class="social">
 			              <p class="likes" v-on:click="movie.likes++"><i class="fa fa-thumbs-up" aria-hidden="true"></i> {{movie.likes}}</p>
-			              <p class="dislikes" v-on:click="movie.dislikes--"><i class="fa fa-thumbs-down" aria-hidden="true"></i> {{movie.dislikes}}</p>
+			              <p class="dislikes" v-on:click="movie.dislikes++"><i class="fa fa-thumbs-down" aria-hidden="true"></i> {{movie.dislikes}}</p>
 			            </div>
 	            </div>
 	        </div>

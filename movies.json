@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "iscore": 8.9,
+            "rating": "PG",
+            "runtime": 150,
+            "released": [2005, 12, 9],
+            "country": "USA",
+            "posters": ["img/movie-one,.jpg","img/movie-one,,.jpg","img/movie-one,,,.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0363771/",
+            "website": "https://www.imdb.com/title/tt0363771/",
+            "likes": 812,
+            "dislikes": 50,
+            "posterindex": 0
+      },
+      {
+            "title": "Ratatouille",
+            "iscore": 8.1,
+            "rating": "G",
+            "runtime": 906,
+            "released": [2007, 6, 29],
+            "country": "USA",
+            "posters": ["img/rata.jpeg","img/rata(1).jpg","img/rata(2).jpg","img/rata(3).jpg"],
+            "imdb": "https://www.imdb.com/title/tt0382932/",
+            "website": "https://www.imdb.com/title/tt0382932/",
+            "likes": 850,
+            "dislikes": 80,
+            "posterindex": 0
+      },
+      {
+            "title": "Encanto",
+            "iscore": 7.3,
+            "rating": "PG",
+            "runtime": 834,
+            "released": [2021, 11, 24],
+            "country": "USA",
+            "posters": ["img/encanto(1).jpg","img/encanto(2).jpg","img/encanto.jpg"],
+            "imdb": "https://www.imdb.com/title/tt2953050/",
+            "website": "https://www.imdb.com/title/tt2953050/",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
       }
 ]

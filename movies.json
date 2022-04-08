@@ -85,7 +85,7 @@
             "posterindex": 0
       }
       ,
-    
+
 
       {
             "title": "Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
@@ -94,7 +94,7 @@
             "runtime": 150,
             "released": [2005, 12, 9],
             "country": "USA",
-            "posters": ["img/movie-one,,,.jpg", "img/movie-one,.jpg"],
+            "posters": ["img/movie-one,,,.jpg", "img/movie-one,,.jpeg", "img/movie-one,.jpg"],
             "imdb": "https://www.imdb.com/title/tt0363771/",
             "website": "https://www.imdb.com/title/tt0363771/",
             "likes": 812,
@@ -109,7 +109,7 @@
             "runtime": 91,
             "released": [2007, 6, 29],
             "country": "USA",
-            "posters": ["img/rata(2).jpg","img/rata.jpeg","img/rata(1).jpg","img/rata(3).jpg"],
+            "posters": ["img/rat-1.jpg","img/rat-2.jpg","img/rata(1).jpg","img/rata(3).jpg"],
             "imdb": "https://www.imdb.com/title/tt0382932/",
             "website": "https://www.imdb.com/title/tt0382932/",
             "likes": 850,
